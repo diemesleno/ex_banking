@@ -72,14 +72,6 @@ Requirements for public functions provided by `ExBanking` module. Any function s
 
 ### Notes
 
-- Completed Elixir test tasks can be sent to **HR@heathmont.net**
+It's not working yet.
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-109361792-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-109361792-1');
-</script>
+I have problem with Registry.User that I need to solve
